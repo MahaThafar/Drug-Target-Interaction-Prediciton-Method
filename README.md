@@ -9,7 +9,7 @@ Everything about the source code usage is explained in ReadME.md file inside the
 
 ---
 
-#### The repositery also provide an example of node2vec code implemented inside the DTIs prediction code in the folder (...)
+#### The repositery also provides an example of node2vec code implemented inside the DTIs prediction code in the folder (...)
 
 ---
 
