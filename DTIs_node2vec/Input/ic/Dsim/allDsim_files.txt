@@ -1,0 +1,9 @@
+ic_simmat_drugs_simcomp.txt
+ic_simmat_drugs_aers-bit.txt
+ic_simmat_drugs_aers-freq.txt
+ic_simmat_drugs_lambda.txt
+ic_simmat_drugs_marginalized.txt
+ic_simmat_drugs_minmaxTanimoto.txt
+ic_simmat_drugs_sider.txt
+ic_simmat_drugs_spectrum.txt
+ic_simmat_drugs_tanimoto.txt

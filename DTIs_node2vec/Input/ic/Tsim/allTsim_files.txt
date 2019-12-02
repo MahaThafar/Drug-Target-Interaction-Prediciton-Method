@@ -1,0 +1,9 @@
+ic_simmat_proteins_sw-n.txt
+ic_simmat_proteins_go.txt
+ic_simmat_proteins_mismatch-n-k3m1.txt
+ic_simmat_proteins_mismatch-n-k3m2.txt
+ic_simmat_proteins_mismatch-n-k4m2.txt
+ic_simmat_proteins_ppi.txt
+ic_simmat_proteins_spectrum-n-k3.txt
+ic_simmat_proteins_spectrum-n-k4.txt
+ic_simmat_proteins_sw-n.txt
