@@ -5,7 +5,8 @@
 
 > DTiGEMS+: a network-based method for computational Drug-Target Interaction prediction using graph embedding, graph mining, and similarity-based techniques
 
-Everything about the source code usage is explained in ReadME.md file inside the folder
+Everything about the source code usage is explained in ReadME.md file inside the folder DTiGEMS+
+https://github.com/MahaThafar/Drug-Target-Interaction-Prediciton-Method/tree/master/DTiGEMS%2B
 
 ---
 
