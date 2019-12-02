@@ -15,4 +15,6 @@ Everything about the source code usage is explained in ReadME.md file inside the
 
 #### For original node2vec code to generate new embeddings instead of reading generated embedding you can visit:
 
+(all details to run the code as well as required parameters are provided with node2vec source code)
+
 https://github.com/aditya-grover/node2vec
