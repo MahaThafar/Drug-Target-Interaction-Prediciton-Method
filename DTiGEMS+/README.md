@@ -22,11 +22,10 @@ Computer, Electrical and Mathematical Sciences and Engineering Division (CEMSE),
 
 There are several required Python packages to run the code:
 - gensim (for node2vec code)
-- Numpy
+- numpy
 - Scikit-learn
 - imblearn
 - pandas
-- math
 
 These packages can be installed using pip or conda as the follwoing example
 ```
