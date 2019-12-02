@@ -1,0 +1,4 @@
+gpcr_simmat_drugs_simcomp.txt
+gpcr_simmat_drugs_aers-bit.txt
+gpcr_simmat_drugs_sider.txt
+gpcr_simmat_drugs_aers-freq.txt

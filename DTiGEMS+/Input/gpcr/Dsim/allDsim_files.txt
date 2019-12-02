@@ -1,0 +1,9 @@
+gpcr_simmat_drugs_simcomp.txt
+gpcr_simmat_drugs_aers-bit.txt
+gpcr_simmat_drugs_aers-freq.txt
+gpcr_simmat_drugs_lambda.txt
+gpcr_simmat_drugs_marginalized.txt
+gpcr_simmat_drugs_minmaxTanimoto.txt
+gpcr_simmat_drugs_sider.txt
+gpcr_simmat_drugs_spectrum.txt
+gpcr_simmat_drugs_tanimoto.txt
