@@ -15,11 +15,16 @@ Everything about the source code usage is explained in ReadME.md file inside the
  - The code uses DTIs training part with single DD similarity and single TT similarity, combine them as edgelist (graph) and feeds them into node2vec model
  - embeddings will be generated for each node in the same code, and the rest of the code is similar to DTiGEMS+ tool..
  - To run this code:
- '''
- python DTIs_Main.py
- '''
+```
+python DTIs_Main.py
+```
+- You can also provide some node2vec parameters when you run the code such as:
+```
+python DTIs_Main.py --dimension 32 --p 0.25 --q 2 --walk-length 30
+```
+
  
- #### Important note:
+ #### *Note:*
  >  When you run the code the AUPR result could be a little bit different than the other code (DTIs_Main_ic.py) because of randomness in node2vec when generates the embedding
  
 
