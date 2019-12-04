@@ -69,8 +69,7 @@ def main():
     TP = []
     all_dt_PredictedScore = []
 
-    #Create two files to write the novel interactions based on predicted scores
-    all_rankedPair_file = 'Novel_DTIs/'+args.data+'/'+args.data+'_all_Ranked_pairs.csv'
+    #Create file to write the novel interactions based on predicted scores
     novel_DT_file = 'Novel_DTIs/'+args.data+'/'+args.data+'_top_novel_DTIs.csv'
 
     # Start training and testing
@@ -264,7 +263,6 @@ def main():
     dt_df = dt_df[dt_df['Predicted_Class']==1]
     novel_dt = dt_df[dt_df['Actual_Class']==0]
 
-    dt_df.to_csv(all_rankedPair_file, sep='\t', index=None)
     novel_dt.to_csv(novel_DT_file,sep='\t', index=None)
     #--------------------------------------------------------------------
     ############# Evaluation Metrics ####################################
