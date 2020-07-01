@@ -1,6 +1,8 @@
 # DTiGEMS+: Compuational Method for Drug-Target Interactions Prediction using Graph Embedding, Graph Mining, and Similarity-based Techniques
 
-December 05 2019
+Received                      Accepted                  Published
+10 December 2019              16 June 2020              29 June 2020
+
 
 ----
 This code is implemented using Python 2.7.9, but since Python 2.7 will no longer supported after January 2020, It is upgraded to be run using Python 3.6
