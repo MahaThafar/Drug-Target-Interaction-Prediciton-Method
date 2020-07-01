@@ -1,7 +1,8 @@
 # DTiGEMS+: Compuational Method for Drug-Target Interactions Prediction using Graph Embedding, Graph Mining, and Similarity-based Techniques
 
-- Received                      Accepted                  Published
-- 10 December 2019              16 June 2020              29 June 2020
+Received: 10 December 2019                                      
+Accepted: 16 June 2020              
+Published: 29 June 2020
 
 
 ----
@@ -93,7 +94,8 @@ python DTIs_Main_e.py --data e
 
 ------------------
 ## For citations:
-```
+
+----
 Thafar, M.A., Olayan, R.S., Ashoor, H. et al. DTiGEMS+: drug–target interaction prediction using graph embedding, graph mining, and similarity-based techniques. J Cheminform 12, 44 (2020). https://doi.org/10.1186/s13321-020-00447-2
-```
+----
 
