@@ -93,7 +93,7 @@ python DTIs_Main_e.py --data e
 ```
 
 ------------------
-## For citations:
+### For citation:
 ---
 Thafar, M.A., Olayan, R.S., Ashoor, H. et al. DTiGEMS+: drug–target interaction prediction using graph embedding, graph mining, and similarity-based techniques. J Cheminform 12, 44 (2020). https://doi.org/10.1186/s13321-020-00447-2
 
