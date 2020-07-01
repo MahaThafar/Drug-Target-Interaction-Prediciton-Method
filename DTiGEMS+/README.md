@@ -1,7 +1,7 @@
 # DTiGEMS+: Compuational Method for Drug-Target Interactions Prediction using Graph Embedding, Graph Mining, and Similarity-based Techniques
 
-Received                      Accepted                  Published
-10 December 2019              16 June 2020              29 June 2020
+- Received                      Accepted                  Published
+- 10 December 2019              16 June 2020              29 June 2020
 
 
 ----
