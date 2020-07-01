@@ -1,7 +1,7 @@
 # Drug-Target-Interaction-Prediciton-Method
  
 #### This repositery provides an implementation of DTiGEMS+ tool  which located in the folder (DTiGEMS+) and described in a research paper:
-(To be published):
+(Published in Journal of Cheminformatics 29 June 2020):
 
 > DTiGEMS+: a network-based method for computational Drug-Target Interaction prediction using graph embedding, graph mining, and similarity-based techniques
 
@@ -36,3 +36,8 @@ python DTIs_Main.py --dimension 32 --p 0.25 --q 2 --walk-length 30
 (all details to run the code as well as required parameters are provided with node2vec source code)
 
 https://github.com/aditya-grover/node2vec
+
+---
+
+### IF you use any part of this code please cite:
+Thafar, M.A., Olayan, R.S., Ashoor, H. et al. DTiGEMS+: drug–target interaction prediction using graph embedding, graph mining, and similarity-based techniques. J Cheminform 12, 44 (2020). https://doi.org/10.1186/s13321-020-00447-2
