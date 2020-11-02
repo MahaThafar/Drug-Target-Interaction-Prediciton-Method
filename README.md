@@ -15,7 +15,7 @@ https://github.com/MahaThafar/Drug-Target-Interaction-Prediciton-Method/tree/mas
  ***About the folder (DTIs_node2vec):***
  - This example is applied on ion channel dataset (ic)
  - The code uses DTIs training part with single DD similarity and single TT similarity, combine them as edgelist (graph) and feeds them into node2vec model
- - embeddings will be generated for each node in the same code, and the rest of the code is similar to DTiGEMS+ tool..
+ - embeddings will be generated for each node in the same code, and the rest of the code is similar to DTiGEMS+ model.
  - To run this code:
 ```
 python DTIs_Main.py
