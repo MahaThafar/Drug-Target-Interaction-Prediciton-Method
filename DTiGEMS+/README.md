@@ -15,7 +15,7 @@ For any qutions please contact the first author:
 
 Email: maha.thafar@kaust.edu.sa
 
-Computer, Electrical and Mathematical Sciences and Engineering Division (CEMSE), Computational Bioscience Research Center, Computer (CBRC), King Abdullah University of Science and Technology (KAUST).
+Computer, Electrical and Mathematical Sciences and Engineering Division (CEMSE), Computational Bioscience Research Center, Computer (CBRC), King Abdullah University of Science and Technology (KAUST) - Faculty of Computers and Information Technology, Taif University (TU)
 
 ----
 
