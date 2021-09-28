@@ -9,6 +9,9 @@ Everything about the source code usage is explained in ReadME.md file inside the
 https://github.com/MahaThafar/Drug-Target-Interaction-Prediciton-Method/tree/master/DTiGEMS%2B
 
 ---
+#### DTiGEMS+ Method Framework
+![image](https://github.com/MahaThafar/Drug-Target-Interaction-Prediciton-Method/blob/master/DTiGEMS%2B/DTiGEMS%2B%20Workflow.png)
+---
 
 #### The repositery also provides an example of node2vec code implemented inside the DTIs prediction code in the folder (DTIs_node2vec)
 
